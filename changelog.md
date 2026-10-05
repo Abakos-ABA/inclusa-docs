@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 (unreleased, internal)
+## 1.0.0 (first Fab release)
 
 - Subtitle system: reading-speed timing, line splitting, priority queue, stable colour-blind safe speaker
   colours, WCAG contrast floor for the background box.
