@@ -10,6 +10,9 @@ Accessibility options your players expect, in one plugin, without a single binar
 | Key remapping | Rebind every player-mappable Enhanced Input key, conflict warnings, saved | Mark mappings as player-mappable |
 | Settings menu | One ready-made, gamepad-friendly menu, live preview, saved on close | Call **Open Settings Menu** |
 
+**Get the plugin:** [Inclusa Accessibility Kit, 29 USD, one-time](https://abakos.ai/inclusa?utm_source=github&utm_medium=readme)
+Unreal Engine 5.8, C++ plugin, licensed for commercial projects, no support included.
+
 Pages:
 
 - [Getting started](getting-started.md)
